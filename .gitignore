@@ -1,0 +1,40 @@
+# Environments
+rfdetr_env/
+.venv/
+env/
+venv/
+ENV/
+
+# Large model weights and checkpoints (exceed GitHub 100MB limit)
+# Note: Upload weights to GitHub Releases, AWS S3, or Hugging Face
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.zip
+*.tar.gz
+
+# Secrets and credentials
+.env
+*.pem
+*.key
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE / Agent metadata
+.vscode/
+.idea/
+.agents/
+.kiro/
+skills-lock.json
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini

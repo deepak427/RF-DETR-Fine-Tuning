@@ -1,0 +1,17 @@
+AmurTiger
+Badger
+BlackBear
+Cow
+Dog
+Hare
+Leopard
+LeopardCat
+MuskDeer
+RaccoonDog
+RedFox
+RoeDeer
+Sable
+SikaDeer
+Weasel
+WildBoar
+Y-T-Marten
